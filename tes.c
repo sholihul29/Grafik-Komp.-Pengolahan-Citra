@@ -18,7 +18,7 @@ system("cls");
 }
 for(x=0;x<67; x++)
 {space(x);
-printf("Solihul Hadi");
+printf("Sholihul Hadi");
 for(a=0;a<5000;a++)
 for(y=0;y<1000;y++);
 system("cls");
